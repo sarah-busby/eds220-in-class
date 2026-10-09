@@ -1,0 +1,10 @@
+name: my-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy=2.4.6
+  - contextily=1.7.1
+prefix: /home/sabusby/.conda/envs/my-env
+# Delete prefix when sharing to others, specific to your computer.
+
+# Created by conda env export --from-history > env_hist.yml
